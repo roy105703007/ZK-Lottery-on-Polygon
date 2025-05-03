@@ -1,12 +1,12 @@
 # Contracts 
 - Mumbai(80001)
 
-  - VRFv2Consumer: 亂數產生器
+  - VRFv2Consumer: 
 
     - [0x046550482B6bfDBfF8d129b81e2A36585ce68735](https://mumbai.polygonscan.com/address/0x046550482B6bfDBfF8d129b81e2A36585ce68735)
     - subscribe: 4203
-    - owner: 0xF16Aa7E201651e7eAd5fDd010a5a14589E220826 (最後需改為一番賞合約)
-  - PolyDraw: 一番賞合約
+    - owner: 0xF16Aa7E201651e7eAd5fDd010a5a14589E220826 
+  - PolyDraw: 
     - [0xEA50E20C35D9DbB776610635a1cdCF7DeCFA13b1](https://mumbai.polygonscan.com/address/0xEA50E20C35D9DbB776610635a1cdCF7DeCFA13b1)
     - subscribe: 4203
 
